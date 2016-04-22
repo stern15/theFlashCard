@@ -96,7 +96,7 @@ a:link, a:visited {
 
 #button-next {
     position:absolute;
-    top:50%;
+    top:3%;
     right:13px;
     width:50px;
     height:80px;
@@ -105,7 +105,7 @@ a:link, a:visited {
 
 #button-prev {
     position:absolute;
-    top:50%;
+    top:3%;
     left:13px;
     width:50px;
     height:80px;
@@ -188,7 +188,7 @@ a:link, a:visited {
 #container {
     position:relative;
     width:1000px;
-    height:800px;
+    height:577px;
     margin:auto;
     border:1px outset;
     background:url('background.png') repeat-x;
@@ -376,7 +376,6 @@ a:link, a:visited {
 }
     #options div {
         font-size:14px;
-        padding:3px;
         margin-left:10px;
         float:right;
     }
